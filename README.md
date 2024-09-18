@@ -71,7 +71,7 @@
 # My Coding Playlist
 
 <a href="https://open.spotify.com/playlist/3sjnoqYNYWBe70xgrelESc?utm_source=generator&theme=0">
-    <img src="https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" width="300" height="70">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/spotifybanner.png" alt="Spotify Playlist" width="600" height="200">
 </a>
 
 ###
