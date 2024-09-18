@@ -52,16 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/uv9mn719w65ty47qdolsdisq8">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=uv9mn719w65ty47qdolsdisq8&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">My previous projects</h2>
 
 ###
@@ -75,5 +65,13 @@
 ###
 
 <p align="left">- A quiz app for students to check their learning progress!<br>- An AI translator</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/uv9mn719w65ty47qdolsdisq8">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3sjnoqYNYWBe70xgrelESc?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </a>
+</div>
 
 ###
