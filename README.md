@@ -68,11 +68,10 @@
 
 ###
 
-# My GitHub Playlist
+# My Coding Playlist
 
-Check out my favorite playlist on Spotify!
-
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3sjnoqYNYWBe70xgrelESc?utm_source=generator&theme=0)
-
+<a href="https://open.spotify.com/playlist/3sjnoqYNYWBe70xgrelESc?utm_source=generator&theme=0">
+    <img src="https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" width="300" height="80">
+</a>
 
 ###
