@@ -56,7 +56,8 @@
 
 ###
 
-<p align="left">FirePlace Palace<br>Enhanced "Design Booking" Page for Fireplace Palace<br><br>Objective: Improved the usability and error handling of the "Design Booking" page to enhance the<br>overall user experience and ensure accurate data submission. This project focused on minimizing user frustration, reducing errors, and lowering the number of support calls.<br><br>Key Contributions:<br>•User Experience Improvements: Redesigned the interface to provide clearer instructions and<br>intuitive navigation, making the booking process more user-friendly.<br>•Error Handling: Implemented robust validation and error handling mechanisms to catch user<br>input mistakes early. Provided real-time feedback to users to help them correct errors before<br>submission, ensuring the data collected was accurate and reducing the need for follow-up.<br>Tech Stack: React, Next.js, Express</p>
+<h2 align="left">FirePlace Palace</h2>
+<p><br>Enhanced "Design Booking" Page for Fireplace Palace<br><br>Objective: Improved the usability and error handling of the "Design Booking" page to enhance the<br>overall user experience and ensure accurate data submission. This project focused on minimizing user frustration, reducing errors, and lowering the number of support calls.<br><br>Key Contributions:<br>•User Experience Improvements: Redesigned the interface to provide clearer instructions and<br>intuitive navigation, making the booking process more user-friendly.<br>•Error Handling: Implemented robust validation and error handling mechanisms to catch user<br>input mistakes early. Provided real-time feedback to users to help them correct errors before<br>submission, ensuring the data collected was accurate and reducing the need for follow-up.<br>Tech Stack: React, Next.js, Express</p>
 
 ###
 
