@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">- A quiz app for students to check their learning progress!<br>- An AI translator</p>
+<p align="left">- An AI chatbot</p>
 
 ###
 
