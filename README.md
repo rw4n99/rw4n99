@@ -80,7 +80,7 @@ Review Functionality</p>
 
 ###
 
-<p align="left">- An AI chatbot</p>
+<p align="left">**LexiMate:** An AI powered Second language learning model</p>
 
 ###
 
