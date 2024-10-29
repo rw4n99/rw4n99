@@ -50,6 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img title="a title" alt="Alt text" src="file:///C:/Users/rowan/Downloads/Tailwind_CSS_logo.svg">
+  ![Tailwind CSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-logotype.4d83b2a51a7da9f27aa29d0953526a63.svg)
+
+By Tailwind Labs Inc.  
 </div>
 
 <h2 align="left">My previous projects</h2>
