@@ -55,7 +55,7 @@
 <h2 align="left">My previous projects</h2>
 
 ###
-<h2 align="left">Quiz Pulse 👨‍🏫</h2>
+<h2 align="left">[Quiz Pulse 👨‍🏫](https://link-url-here.org)</h2>
 <p><br>Test your general knowledge with a thrilling timed quiz that tracks your score and challenges you with limited lives!<br><br>Objective: The objective of the quiz app is to challenge users' general knowledge through a series of timed questions across various topics. Players aim to score as high as possible by answering correctly before the timer runs out, while managing their limited lives. Each incorrect answer costs a life, adding pressure and excitement to the game. The app tracks progress, encouraging players to beat their personal bests or compete with friends, fostering a fun and engaging learning experience.<br><br>Key Contributions:<br>•User Experience Improvements: Designed the interface to provide clearer instructions,<br>making the booking process more user-friendly.<br>Provide real-time feedback to users to help them correct errors before<br>submission<br>Tech Stack: React, Next.js, Express</p>
 
 <h2 align="left">Reel Magic 🎞</h2>
