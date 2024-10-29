@@ -47,8 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="70" alt="tailwind logo" />
-  <img width="20" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="60" alt="tailwind logo" />
+  <img width="12" />
 
 </div>
 
