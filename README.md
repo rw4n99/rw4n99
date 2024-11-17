@@ -74,6 +74,9 @@ API integration
 Project planning and management
 Review Functionality</p>
 
+<h2 align="left"><a href="https://github.com/rw4n99/QuizPulse">EcoSage 🍂</a></h2>
+<p><br>EcoSage is a React Native application designed to empower individuals with real-time environmental data and personalized recommendations. By leveraging weather, air quality, and carbon intensity insights, EcoSage helps users make eco-friendly choices and stay safe in their environment.<br><br>Key Contributions:<br>•User Experience Improvements •API Integration •Project Planning<br>Tech Stack: React Native, Expo Go</p>
+
 ###
 
 <h1 align="left">I'm currently working on...</h1>
